@@ -1,10 +1,8 @@
 # Amazon Reviews Analysis
 ### Positivity Bias in Vine Member Reviews
-<b>Analyst: </b><i><br />Stan Misina<br />Columbia Data Analysis Bootcamp<br /></i>
-
-<b>Data Source: </b><br /><i>Amazon Analyitics<br /></i>
-
-<b>Technical Tools Used: </b><br /><i>PySpark with Google Colaboratory<br />postgreSQL accessing AWS RDS instance<br />Python 3.9 with Pandas and Numpy in Jupyter Notebook<br /></i>
+Analyst: <code><i> Stanley Misina, Columbia University Data Analytics Bootcamp</i></code><br />
+Systems Used: <i><code> PySpark with Google Colaboratory<br />postgreSQL accessing AWS RDS instance<br />Python 3.9 with Pandas and Numpy in Jupyter Notebook </i></code><br />
+Data Source: <i><code>Amazon Analyitics</code></i>
 
 ## Overview
 #### Abstract
