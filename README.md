@@ -27,4 +27,4 @@ From the findings of the study of this subset, we find:
 #### Bias in Vine Reviews
 In summary, we have not found a positivity bias in Vine reviews. Regarding overall 5-star review tendencies, in fact it appears Vine members are less inclined to promote a product with 5-stars. Vine members take their positions with more care, and sincerity.<br />
 
-To expand this study and take a deeper dive, is to expand the subset to 4 as well as 5 star reviews. The larger dataset would afford a different perspective.
+To further expand this study to take a deeper dive, expand the subset to 4 as well as 5 star reviews. The larger dataset would afford a different perspective.
